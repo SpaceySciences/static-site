@@ -1,0 +1,16 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: neogapp
+  host: localhost
+  pool: 5
+  username: neogapp
+  password: neogapp 
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: neogapp
+  host: localhost
+  pool: 5
+  username: neogapp
+  password: neogapp 
