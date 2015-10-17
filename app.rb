@@ -23,4 +23,8 @@ class NeoGalatic < Sinatra::Base
         erb :index
     end
 
+    get "/press" do
+      erb :press
+    end
+
 end
