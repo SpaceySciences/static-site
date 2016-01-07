@@ -144,11 +144,11 @@ a:focus {
 
 .social > center > ul {
     list-style-type: none;
-    /*padding: 0;*/
+    padding: 0;
     margin: 0;
 }
 
-.social > center > li {
+.social > center > ul > li {
     display: inline;
     padding: 5px;
 }
