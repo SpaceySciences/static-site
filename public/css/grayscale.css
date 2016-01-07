@@ -142,11 +142,13 @@ a:focus {
     width: 100%;
 }
 
-.social ul {
+.social > center > ul {
     list-style-type: none;
+    padding: 0;
+    margin: 0;
 }
 
-.social li {
+.social > center > li {
     display: inline;
     padding: 5px;
 }
